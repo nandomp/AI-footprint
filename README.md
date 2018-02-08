@@ -1,1 +1,1 @@
-# AI-footprint
+# AI Footprint
